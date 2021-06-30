@@ -1,0 +1,23 @@
+{
+  "name": "Lab12CapsClient",
+  "version": "1.0.0",
+  "description": "Repository for 401 lab template which will include all of the required configuration files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunny-lee3/Lab12CapsClient.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunny-lee3/Lab12CapsClient/issues"
+  },
+  "homepage": "https://github.com/sunny-lee3/Lab12CapsClient#readme",
+  "dependencies": {
+    "socket.io-client": "^4.1.2"
+  }
+}
